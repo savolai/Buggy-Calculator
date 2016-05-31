@@ -7,10 +7,10 @@ So the contents of the zip file in debug-dist directory should provide the desir
 
 List of Bugs in Buggy Calc V0.8
 
-1. Keys changes color (blink) when pressed except for "Clear" and "Backspace".
+1. Keys change color when pressed except for "Clear" and "Backspace".
 2. Substract operator "-" functions like the addition operator "+"
-3. Pressting key "8" displays "88"
-4. The calculator is only usable by a mouse.
+3. Pressing key "8" displays "88"
+4. The calculator is only usable by a mouse. (Issue also with original Qt example.)
 5. The "Backspace" key functions like the "Clear" key and v.v.   
 6. Dividing by 0 crashes the application.
 7. Long press on any key crashes the application.
