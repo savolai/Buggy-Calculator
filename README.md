@@ -18,6 +18,8 @@ List of Bugs in Buggy Calc V0.8
 9. Double click anywhere outside the the keys crashes the application.
 10. Having more than two consecutive calculations then pressing "=" crashes the application.
 
-Ideation: Hashem Alsayadi
+Ideation: Hashem Alsayadi 
+
 Implementation: Olli Savolainen
+
 License: LGPL
