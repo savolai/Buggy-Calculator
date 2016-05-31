@@ -14,7 +14,7 @@ List of Bugs in Buggy Calc V0.8
 5. The "Backspace" key functions like the "Clear" key and v.v.   
 6. Dividing by 0 crashes the application.
 7. Long press on any key crashes the application.
-8. The "%" does not work.
+8. The "Sqrt" does not work.
 9. Double click anywhere outside the the keys crashes the application.
 10. Having more than two consecutive calculations then pressing "=" crashes the application.
 
