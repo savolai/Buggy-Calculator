@@ -3,7 +3,7 @@ Intentionally broken calculator app, based on Qt 5.6 Calculator example.
 http://doc.qt.io/qt-5/qtwidgets-widgets-calculator-example.html
 
 Note that the crashes only work when compiled in debug mode. 
-So the files in debug-dist should provide the desired functionality as is on Windows.
+So the contents of the zip file in debug-dist directory should provide the desired functionality, as is, on Windows.
 
 List of Bugs in Buggy Calc V0.8
 
