@@ -3,9 +3,9 @@ Intentionally broken calculator app, based on Qt 5.6 Calculator example.
 http://doc.qt.io/qt-5/qtwidgets-widgets-calculator-example.html
 
 Note that the crashes only work when compiled in debug mode. 
-So the contents of the zip file in dist-debug directory should provide the desired functionality, as is, on Windows.
+The contents of the zip file in dist-debug directory should provide the desired functionality. As is, on Windows.
 
-SPOILER ALERT! If you want to explore and find all the 10 issues with the software yourself - not necessarily all bugs in a strict sense - do not scroll below this bicycle.
+SPOILER ALERT! Do not scroll below this bicycle if you want to explore and find all the 10 issues with the software yourself. They're not necessarily all bugs in a strict sense, mind you.
 
 
               ._
