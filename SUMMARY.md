@@ -1,4 +1,4 @@
 # Summary
 
-* Testing philosophy
+* [Testing philosophy](testing_philosophy.md)
 
